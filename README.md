@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeezNutz5568
 - 👀 I’m interested in ... Computer Hardware
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Science with Maths. 
+- 💞️ I’m looking to collaborate on ... Python command-lines, and Android Projects
 - 📫 How to reach me ...
 
 <!---
